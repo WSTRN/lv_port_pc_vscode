@@ -99,7 +99,7 @@ int main(int argc, char **argv)
 //  lv_demo_keypad_encoder();
 //  lv_demo_benchmark();
 //  lv_demo_stress();
-//  lv_demo_music();
+  /*lv_demo_music();*/
 
   while(1) {
     /* Periodically call the lv_task handler.
