@@ -10,3 +10,5 @@ ui/
 # VSCode
 !.vscode/
 !.vscode/*
+
+compile_commands.json
